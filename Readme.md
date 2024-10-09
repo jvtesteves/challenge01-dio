@@ -1,7 +1,5 @@
 # Desenvolvendo o Dio Bank
 
-Projeto desenvolvido para praticar conceitos básicos de TypeScript, criando uma simulação de operações bancárias.
-
 #### Projeto desenvolvido com conceitos básicos de typescript
 
 ### Tecnologias
